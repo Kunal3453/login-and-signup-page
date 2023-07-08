@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Kunal3453/login-and-signup-page.git
+git branch -M main
+git push -u origin main
